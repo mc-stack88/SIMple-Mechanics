@@ -14,7 +14,7 @@ nphysics2d = "0.15.1"
 ggez = "0.5.1"
 specs = { version = "0.15.1", features = ["specs-derive", "nightly"] }
 
-smallvec = "1.4.0"
+smallvec = "1.6.1"
 
 rlua = "0.17.0"
 
